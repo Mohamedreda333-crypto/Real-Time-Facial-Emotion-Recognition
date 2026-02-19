@@ -79,7 +79,7 @@ To enhance model performance, the following improvements are proposed:
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 - Implement Transfer Learning with pre-trained CNN models
 - Deploy the model using optimized inference pipeline
